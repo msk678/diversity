@@ -1,2 +1,2 @@
 # diversity1
-multidimensional diversity project first steps
+code related to the multidimensional diversity project
